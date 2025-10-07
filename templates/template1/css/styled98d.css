@@ -873,8 +873,10 @@ body.offcanvas .oliven-nav-toggle {
 }
 @media screen and (max-width: 991px) {
     .header {
-        background-position: center center;
-        zoom: 50%;
+        background-position: center 30%;
+        background-size: 165% auto;
+        background-repeat: no-repeat;
+        min-height: 100vh;
     }
     .header .caption h5 {
         font-size: 12px;
@@ -2959,9 +2961,10 @@ body.offcanvas .oliven-nav-toggle {
         font-size: 15px;
     }
     .header {
-        background-position: center center;
+        background-position: center 30%;
         background-size: 165% auto;
         background-repeat: no-repeat;
+        min-height: 100vh;
     }
 }
 .contact-validation-active #c-success,
