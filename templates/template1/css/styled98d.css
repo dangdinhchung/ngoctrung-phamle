@@ -2960,7 +2960,8 @@ body.offcanvas .oliven-nav-toggle {
     }
     .header {
         background-position: center center;
-        zoom: 50% !important;
+        background-size: 165% auto;
+        background-repeat: no-repeat;
     }
 }
 .contact-validation-active #c-success,
