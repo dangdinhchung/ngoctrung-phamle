@@ -876,7 +876,7 @@ body.offcanvas .oliven-nav-toggle {
         background-position: center 30%;
         background-size: 165% auto;
         background-repeat: no-repeat;
-        min-height: 100vh;
+        min-height: 59vh;
     }
     .header .caption h5 {
         font-size: 12px;
@@ -2964,7 +2964,7 @@ body.offcanvas .oliven-nav-toggle {
         background-position: center 30%;
         background-size: 165% auto;
         background-repeat: no-repeat;
-        min-height: 100vh;
+        min-height: 50vh;
     }
 }
 .contact-validation-active #c-success,
